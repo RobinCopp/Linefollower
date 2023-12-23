@@ -32,7 +32,7 @@ calibrate black  = moet uitgevoerd worden als de sensor op een zwart oppervlak s
 calibrate white  = moet uitgevoerd worden als de sensor op een wit oppervlak staat, hierdoor weet de auto wat wit is
 
 ### kalibratie
-kalibratie moet uitgevoerd worden voor de auto begint te rijden, en moet op het zelfde soort oppervlak gebeuren als de auto straks op zal rijden en moet op de correcte kleur gebeuren, niet op een kleur die er een beetje op trekt.
+Kalibratie moet uitgevoerd worden voor de auto begint te rijden, en moet op het zelfde soort oppervlak gebeuren als de auto straks op zal rijden en moet op de correcte kleur gebeuren, niet op een kleur die er een beetje op trekt.
 
 Eenmaal de auto op de correcte kleur staat, stuur de commando's "calibrate black" en "calibrate white" door naar de auto zoals in de vorige rubriek uitgelegd.
 
