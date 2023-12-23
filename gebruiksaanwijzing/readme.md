@@ -14,13 +14,21 @@ debug [on/off]  = Geeft de ingestelde parameters weer
 run  = Starten van de auto (begint te rijden)
 
 stop  = Stoppen van de auto
+
 set cycle [µs]  = Een tijd instellen hoelang de cyclus mag duren. Ongeveer dubbel de calculation time. Deze wordt weergegeven bij debug.
+
 set power [0..255]  = Vermogen instellen van de motoren, zet dit niet zomaar op max, de auto zal enkel wheelies trekken.
+
 set diff [0..1]  = Het snelheids verschil van de auto tussen de rechte stukken en de bochten. Hoe hoger, hoe minder de auto in de bochten vertraagd.
+
 set kp [0..]  = Dit heeft een invloed op hoe "agressief de auto instuurt". Als deze te hoog staat zal de auto heen en weer over de lijn schokken.
+
 set ki [0..]  = Zal meer bijsturen hoelanger de bocht
+
 set kd [0..]  = Corrigeert "kp", hoe groter de fout bij "kp", hoe meer er wordt gecorigeerd.
+
 calibrate black  = moet uitgevoerd worden als de sensor op een zwart oppervlak staat, hierdoor weet de auto wat zwart is en wat hij straks zal moeten volgen.
+
 calibrate white  = moet uitgevoerd worden als de sensor op een wit oppervlak staat, hierdoor weet de auto wat wit is.
 
 ### kalibratie
@@ -29,11 +37,17 @@ Eenmaal de auto op de correcte kleur staat, stuur de commando's "calibrate black
 
 ### settings
 De robot rijdt stabiel met volgende parameters:
+
 cycle time: 3000
+
 power: 72
+
 diff: 0.74
+
 kp: 20
+
 ki: 0
+
 kd: 0.90
 
 ### start/stop button
