@@ -10,7 +10,9 @@ Voor draadloze connectie met de auto is een bluethooth module op de auto voorzie
 
 #### commando's
 debug [on/off]  = Geeft de ingestelde parameters weer
+
 run  = Starten van de auto (begint te rijden)
+
 stop  = Stoppen van de auto
 set cycle [µs]  = Een tijd instellen hoelang de cyclus mag duren. Ongeveer dubbel de calculation time. Deze wordt weergegeven bij debug.
 set power [0..255]  = Vermogen instellen van de motoren, zet dit niet zomaar op max, de auto zal enkel wheelies trekken.
