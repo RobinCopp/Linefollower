@@ -31,7 +31,7 @@ De gemonteerde printplaat komt bovenop de batterijhouder en wordt vastgehouden d
 Nu kunnen de "geleende" Lego Technic wielen op de auto gemonteerd worden. Monteer hiervoor eerst de geprinte wieladapters in de wielen zelf, en schuif ze hierna over de motoren. 
 
 ### stap 10
-Proficiat! De auto is klaar. Nu rest ons enkel nog het programma te uploaden naar de microcontroller. Demonteer hiervoor eerst de bluetooth module van de printplaat en plug de auto dan in een usb poort van uw computer. Het Arduino programma kan je vinden onder code -> finaal. Stel als microcontroller de "Atmel atmega 328p" in, en upload het programma. Als dit gelukt is mag de bluetooth module terug gemonteerd worden.
+Proficiat! De fysieke auto is klaar. Nu rest ons enkel nog het programma te uploaden naar de microcontroller. Demonteer hiervoor eerst de bluetooth module van de printplaat en plug de auto dan in een usb poort van uw computer. Het Arduino programma kan je vinden onder code -> finaal. Stel als microcontroller de "Atmel atmega 328p" in, en upload het programma. Als dit gelukt is mag de bluetooth module terug gemonteerd worden.
 
 ### stap 11
 De auto staat nu volledig klaar voor gebruik en moet enkel nog ingesteld worden. Zet de auto op het parcours en maak er verbinding mee via bluetooth.
