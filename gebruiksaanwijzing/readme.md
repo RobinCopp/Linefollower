@@ -2,7 +2,7 @@
 
 ### opladen / vervangen batterijen
 De twee 18650 li-ion batterijen hebben een speciale oplader nodig. Probeer deze nooit op te laden met een oplader die hier niet voor bedoeld is, dit kan serieuze schade aanrichten.
-De batterijhouder wordt po zijn plaats gehouden door enkele elastiekjes. Door deze voorzichtig los te maken kan de batterijhouder van onder de printplaat gehaald worden. Als dit gebeurd is kunnen ze uit de houder gehaald worden en in de oplader gestoken worden. Het is natuurlijk van belang dat de batterijen in de juiste richting in zowel de oplader als in de batterijhouder worden geïnstalleerd. Om de batterijhouder met opgeladen batterijen terug in de auto te installeren moeten de vooraf gaande stappen gewoon in de omgekeerde volgorde uitgevoerd worden.
+De batterijhouder wordt op zijn plaats gehouden door enkele elastiekjes. Door deze voorzichtig los te maken kan de batterijhouder van onder de printplaat gehaald worden. Als dit gebeurd is kunnen ze uit de houder gehaald worden en in de oplader gestoken worden. Het is natuurlijk van belang dat de batterijen in de juiste richting in zowel de oplader als in de batterijhouder worden geïnstalleerd. Om de batterijhouder met opgeladen batterijen terug in de auto te installeren moeten de vooraf gaande stappen gewoon in de omgekeerde volgorde uitgevoerd worden.
 
 ### draadloze communicatie
 #### verbinding maken
