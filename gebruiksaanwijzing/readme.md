@@ -15,21 +15,21 @@ run  = Starten van de auto (begint te rijden)
 
 stop  = Stoppen van de auto
 
-set cycle [µs]  = Een tijd instellen hoelang de cyclus mag duren. Ongeveer dubbel de calculation time. Deze wordt weergegeven bij debug.
+set cycle [µs]  = Een tijd instellen hoelang de cyclus mag duren. Ongeveer dubbel de calculation time. Deze wordt weergegeven bij debug
 
-set power [0..255]  = Vermogen instellen van de motoren, zet dit niet zomaar op max, de auto zal enkel wheelies trekken.
+set power [0..255]  = Vermogen instellen van de motoren, zet dit niet zomaar op max, de auto zal enkel wheelies trekken
 
-set diff [0..1]  = Het snelheids verschil van de auto tussen de rechte stukken en de bochten. Hoe hoger, hoe minder de auto in de bochten vertraagd.
+set diff [0..1]  = Het snelheids verschil van de auto tussen de rechte stukken en de bochten. Hoe hoger, hoe minder de auto in de bochten vertraagd
 
-set kp [0..]  = Dit heeft een invloed op hoe "agressief de auto instuurt". Als deze te hoog staat zal de auto heen en weer over de lijn schokken.
+set kp [0..]  = Dit heeft een invloed op hoe "agressief de auto instuurt". Als deze te hoog staat zal de auto heen en weer over de lijn schokken
 
 set ki [0..]  = Zal meer bijsturen hoelanger de bocht
 
-set kd [0..]  = Corrigeert "kp", hoe groter de fout bij "kp", hoe meer er wordt gecorigeerd.
+set kd [0..]  = Corrigeert "kp", hoe groter de fout bij "kp", hoe meer er wordt gecorigeerd
 
-calibrate black  = moet uitgevoerd worden als de sensor op een zwart oppervlak staat, hierdoor weet de auto wat zwart is en wat hij straks zal moeten volgen.
+calibrate black  = moet uitgevoerd worden als de sensor op een zwart oppervlak staat, hierdoor weet de auto wat zwart is en wat hij straks zal moeten volgen
 
-calibrate white  = moet uitgevoerd worden als de sensor op een wit oppervlak staat, hierdoor weet de auto wat wit is.
+calibrate white  = moet uitgevoerd worden als de sensor op een wit oppervlak staat, hierdoor weet de auto wat wit is
 
 ### kalibratie
 kalibratie moet uitgevoerd worden voor de auto begint te rijden, en moet op het zelfde soort oppervlak gebeuren als de auto straks op zal rijden en moet op de correcte kleur gebeuren, niet op een kleur die er een beetje op trekt.
