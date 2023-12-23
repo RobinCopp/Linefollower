@@ -6,7 +6,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 bestel alle componenten uit de bill of materials (bekijk eerst welke je misschien al hebt liggen)
 
 ### stap 2
-Test of alle componenten ook zoals geadverteerd effectief werken. Hiervoor kunnen de proof of concepts gebruikt worden.
+Test of alle componenten ook effectief zoals geadverteerd werken. Hiervoor kunnen de proof of concepts gebruikt worden.
 
 ### stap 3
 Monteer alle componenten op de printplaat. Voor de microcontroller, H-brug, sensor, bluethooth module, batterijspanning en motoraansluitingen zijn pinheaders voorzien zodat deze zeer gemakkelijk aan te sluiten / af te koppelen zijn.
