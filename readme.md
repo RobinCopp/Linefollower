@@ -3,6 +3,8 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
 ![A description of my image](images/empty.png)
+![image](https://github.com/RobinCopp/Linefollower/assets/146443186/a34951ad-b071-4c77-b38e-600d0da9dd1e)
+
 
   
 ## specifications
